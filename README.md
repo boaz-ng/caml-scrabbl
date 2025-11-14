@@ -1,5 +1,15 @@
+# Caml Scrabbl
+![photo](screenshot.png)
+
+[video](scrabble.mp4)
+
+This is a 2-player clone of Scrabble implemented in OCaml! All graphics are done with the OCaml graphics library. The word list is NWL2018 (I think). 
+
+For playing instructions, run the game and click Help on the top left!
+
+To run the game, see the below instructions! For now it only works for Windows with WSL2.
+
 # Running the app using Docker
-(Windows + WSL2 for now)
 1. Install VcXsrv
 Download: https://sourceforge.net/projects/vcxsrv/
 Run XLaunch, and:
